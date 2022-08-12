@@ -1,4 +1,4 @@
-# Image Compressor
+# IMAGE COMPRESSOR
 
 > Are you searching for a tool to compress your images without losing the **_quality_** ?
 
