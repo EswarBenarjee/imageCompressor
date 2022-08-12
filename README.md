@@ -19,5 +19,5 @@
 > - OS Module
 
 Follow for more: 
-> ### [Eswar Benarjee Github Profile](https://github.com/EswarBenarjee/imageCompressor "Eswar Benarjee")
+> [Eswar Benarjee Github Profile](https://github.com/EswarBenarjee/imageCompressor "Eswar Benarjee")
 
